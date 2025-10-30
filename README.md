@@ -1,3 +1,3 @@
 # Shootergame
 A Shooter Game
-This is a little _Muni shooter game._
+This is a little _Mini shooter game._
